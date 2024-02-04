@@ -1,6 +1,6 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 
-<h1 align="center">Hi 👋, I'm Fitsum</h1>
+<h1 align="center">Hi 👋, I'm Fitsum Getu Yilma</h1>
 <h3 align="center">A passionate Senior Full-Stack developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400"
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
