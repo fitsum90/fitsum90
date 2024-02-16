@@ -1,10 +1,11 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=FITSUM%20GETU%20YILMA&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <h1 align="center">Hi 👋, I'm Fitsum Getu Yilma</h1>
 <h3 align="center">A passionate Senior Full-Stack developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400"
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 >
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=fitsum90&theme=dark)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsum90&label=Profile%20views&color=0e75b6&style=flat" alt="fitsum90" /> </p>
 
