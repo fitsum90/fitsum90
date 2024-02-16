@@ -1,4 +1,4 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=FITSUM%20GETU%20YILMA&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <h1 align="center">Hi 👋, I'm Fitsum Getu Yilma</h1>
 <h3 align="center">A passionate Senior Full-Stack developer from Ethiopia</h3>
