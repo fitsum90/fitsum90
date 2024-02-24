@@ -1,15 +1,24 @@
 
 <h1 align="center">Hi 👋, I'm Fitsum Getu Yilma</h1>
-<h3 align="center">A passionate Senior Full-Stack developer from Ethiopia</h3>
+<h3 align="center">A passionate Senior Full-Stack Engineer from Ethiopia</h3>
 <img align="right" alt="coding" width="400"
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 >
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=fAF70A&center=true&vCenter=true&width=800&height=30&lines=Research+and+Developer+Engineer+from+Addis%C4%B1Ababa%2FEthiopia" alt="Typing SVG" /></a>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fitsum90&theme=dark)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NurhayatYurtaslan/NurhayatYurtaslan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NurhayatYurtaslan/NurhayatYurtaslan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NurhayatYurtaslan/NurhayatYurtaslan/output/github-contribution-grid-snake.svg">
+</picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsum90&label=Profile%20views&color=0e75b6&style=flat" alt="fitsum90" /> </p>
 
-- 🔭 I’m currently working on **payment gateway**
+<p align="center">
+
+
+- 🔭 I’m currently working on **payment gateway Fraud Detection**
 
 - 💬 Ask me about **reactjs, Nodejs, express , Mongodb, cassandra, Neo4j, Apache Pulsar And ElasticSearch**
 
